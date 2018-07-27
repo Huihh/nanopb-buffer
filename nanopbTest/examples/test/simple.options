@@ -1,0 +1,4 @@
+HDNodeType.chain_code    max_size:22
+HDNodeType.private_key    max_size:33
+HDNodeType.public_key    max_size:44
+

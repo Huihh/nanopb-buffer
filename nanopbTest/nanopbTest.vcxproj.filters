@@ -21,12 +21,39 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="pb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pb_common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pb_decode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pb_encode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="simple.pb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="nanopbTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pb_common.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pb_decode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pb_encode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="simple.pb.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
